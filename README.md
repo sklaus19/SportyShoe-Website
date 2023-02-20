@@ -35,8 +35,6 @@ Step 7: To add any new shoe in the shoe lists, admin can click on the
 
 ->JDBC
 
-->Tomcat server
-
 ->Html
 
 ->Thymleaf
